@@ -1,3 +1,9 @@
-.img-scale:hover {
-    transform: scale(2, 2);
+.ps{
+    background-color: blue;
+}
+.cet{
+    background-color: antiquewhite;
+}
+.pi{
+    text-align: center;
 }
