@@ -1,9 +1,146 @@
-.ps{
-    background-color: blue;
+/* body {
+    font-family: Arial, sans-serif;
 }
-.cet{
-    background-color: antiquewhite;
+.tabs-container {
+    display: flex;
+    width: 80%;
+    margin: 40px auto;
+    border: 3px solid #aaa;
+    padding: 20px;
 }
-.pi{
+.tabs-left {
+    display: flex;
+    flex-direction: column;
+    width: 150px;
+}
+.tab-btn {
+    padding: 20px;
+    background: #5f7fa1;
+    color: white;
+    border-bottom: 2px solid #eee;
+    cursor: pointer;
     text-align: center;
+}
+.tab-btn.active {
+    background: #2f4f72;
+    font-weight: bold;
+}
+.tabs-content {
+    flex-grow: 1;
+    padding: 20px;
+}
+.tab-content {
+    display: none;
+}
+.tab-content.active {
+    display: block;
+} */
+/*Завдання 2 */
+/* body {
+    background: #f6eee3;
+    font-family: Arial, sans-serif;
+}
+
+.news-list {
+    width: 80%;
+    margin: 30px auto;
+}
+
+.news-item {
+    background: white;
+    padding: 20px;
+    margin-bottom: 15px;
+    border: 2px solid #cbb9a4;
+    position: relative;
+}
+.news-item h3 {
+    margin-top: 0;
+}
+.remove {
+    position: absolute;
+    right: 15px;
+    top: 10px;
+    background: #ddd;
+    border: none;
+    cursor: pointer;
+    padding: 5px 10px;
+} */
+/* Завдання 3 */
+/* .traffic-box {
+    width: 450px;
+    height: 150px;
+    margin: 30px auto;
+    border: 3px solid #a3998d;
+    background: #f6eee3;
+    border-radius: 30px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.light {
+    width: 100px;
+    height: 100px;
+    background: gray;
+    border-radius: 50%;
+}
+
+.active {
+    background: currentColor;
+}
+
+.red { color: red; }
+.yellow { color: orange; }
+.green { color: green; }
+
+.next-btn {
+    width: 150px;
+    height: 120px;
+    font-size: 30px;
+    background: #ddd;
+    border: none;
+    border-radius: 20px;
+    display: block;
+    margin: 10px auto;
+    cursor: pointer;
+} */
+/* Завдання 4 */
+/* .books-list{
+    margin: 0;
+    padding-left: 36px;
+}
+
+.book{
+    padding: 8px 12px;
+    line-height: 1.4;
+    cursor: pointer;
+    transition: background-color .18s ease;
+    border-radius: 4px;
+    margin-bottom: 6px;
+    list-style-position: inside;
+}
+.book:hover{
+    background: rgba(0,0,0,0.03);
+}
+.book.active{
+    color: #2b2b2b;
+} */
+/* додаткове Завдання 1 */
+body {
+    text-align: center;
+    padding-top: 40px;
+}
+.title {
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+.number-box {
+    font-size: 60px;
+    font-weight: bold;
+    margin-bottom: 25px;
+}
+.btn {
+    padding: 12px 25px;
+    font-size: 20px;
+    border-radius: 5px;
 }
